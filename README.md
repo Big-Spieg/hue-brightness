@@ -19,10 +19,6 @@ Port         Protocol Type              Board Name  FQBN            Core
 10. Copy the data from the experiment into input.txt
 11. Run the postprocessing analysis: `python3 analysis.py`
 
-## Control Variables
-- 0.173 AMPS
-- 0.49 volts
-
 ## Results
 
 ![figure 1](./Figure_1.png)
