@@ -50,9 +50,6 @@ colors = []
 lux_values = []
 
 for i in range(len(data)):
-    # get the average wavelength
-    total_rgbs = sum(data[i][1:4])
-
     red = data[i][1]
     green = data[i][2]
     blue = data[i][3]
