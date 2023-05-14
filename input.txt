@@ -1,3 +1,4 @@
+trial #, true red, true blue, true green, color temp, brightness, raw red, raw green, raw blue
 1,255,0,0,4027,89,226,172,149,511
 1,255,0,0,4206,88,216,168,146,495
 1,255,0,0,4206,88,216,168,146,496
